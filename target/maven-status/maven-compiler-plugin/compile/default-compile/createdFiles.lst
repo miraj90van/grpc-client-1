@@ -1,0 +1,4 @@
+com/code/miraz/controller/MahasiswaController.class
+com/code/miraz/configuration/ManagedChannelConfiguration.class
+com/code/miraz/services/MahasiswaGrpcClientService.class
+com/code/miraz/Main.class
